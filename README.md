@@ -1,17 +1,15 @@
-![Asteroid Game](.\screenshots\asteroid.png)
+![Asteroid Game](./screenshots/asteroid.png)
 
 # Asteroid Shooter
 this game is made in pygame with python, 
 if you want to run this project follow these steps.
 
-* install python
-
-* install pygame
-
+* ### install pygame
 ```bash
 pip install pygame
 ```
 
+* ### execute the main file
 ```powershell
 python3 main.py
 ```
